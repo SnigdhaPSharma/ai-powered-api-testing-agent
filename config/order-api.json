@@ -1,0 +1,5 @@
+{
+  "name": "Order Management API",
+  "baseUrl": "http://localhost:3000",
+  "specPath": "specs/order-api.yaml"
+}

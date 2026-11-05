@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Verify API health",
+    "method": "GET",
+    "endpoint": "/health",
+    "expectedStatus": 200
+  },
+  {
+    "name": "Get existing order",
+    "method": "GET",
+    "endpoint": "/orders/1001",
+    "expectedStatus": 200
+  }
+]
